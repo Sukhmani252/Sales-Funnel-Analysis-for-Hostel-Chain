@@ -6,7 +6,7 @@ SAPL, a provider of student hostels in India through their Rento platform, faced
 Despite a surge in web and app traffic and a substantial number of leads from diverse sources, the conversion rate of students actually joining SAPL was remarkably low at approximately 13%.
 
 ### **Analysis:**
-A dashboard is prepared using PowerBI which displays the sales funnel, conversion rates for each city, count of leads over time, and more visuals to find the cause of the low conversion rate.
+A dashboard is prepared using PowerBI which displays the sales funnel, conversion rates for each city, count of leads over time, and more visuals to showcase the cause of the low conversion rate.
 
 ### **Insights:**
 
