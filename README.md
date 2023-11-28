@@ -7,6 +7,8 @@ SAPL, a provider of student hostels in India through their Rento platform, faced
 ### **Analysis:**
 A dashboard is prepared using PowerBI which displays the sales funnel, conversion rates for each city, count of leads over time, and more visuals to showcase the cause of the low conversion rate.
 
+**Live Dashboard:** https://www.novypro.com/project/sales-funnel-analysis-for-hostel-chain
+
 ### **Insights:**
 
 - The company should focus mainly on the agreement stage ( negotiation process ) and visited stage (canceled, missed, rescheduled visits ) to improve the overall conversion rate which are major factors of low conversion.
